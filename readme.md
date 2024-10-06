@@ -6,3 +6,7 @@ slim2の改造リポジトリ<br>
 ご自身のリポジトリに、機能追加及びInvidious追加のリポジトリを追加するよりも、<a href="https://dashboard.render.com/blueprint/new?repo=https%3A%2F%2Fgithub.com%2FLunaKamituki%2Fnew-instance">このリポジトリをdeploy</a>した方が楽です。
 
 Render以外でのdeployに必要（あった方が良い）ファイルは<a href="https://github.com/siawaseok3/slim-2-by-siawaseok">このリポジトリ</a>から頂きました。
+
+deploy
+<a href="https://render.com/deploy?repo=https://github.com/Tenakskd/Keihou-instance">
+ <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render"><br>

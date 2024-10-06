@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: new-instance
+    name: misato-s-onara
     env: python
     region: Oregon
     plan: free
